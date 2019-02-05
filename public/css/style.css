@@ -1,0 +1,34 @@
+
+
+            .alert
+            {
+                color: #FF0000;
+                font-size: 35px;
+            }
+            
+            .mini
+            {
+                font-size: 11px;
+            }
+            .merci
+            {
+                font-size: 35;
+                text-align: center;
+                background: #F0F8FF;
+            }
+            .title
+            {
+                color: #4169E1;
+                font-size: 75px;
+                text-align: center;
+            }
+
+            .article
+            {
+                margin-left: 50px
+                margin-right: 50px;
+                font-size: 50px;
+                color: #20B2AA;
+                text-align: center;
+            }
+
